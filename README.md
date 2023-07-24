@@ -52,7 +52,7 @@ Tudo isso para cada usuário em específico. Além disso, dessa vez tem um plano
 - Clone este repositório
 
 ```
-> git clone https://github.com/mayaraviana/ignite-template-trabalhando-com-middlewares
+> git clone https://github.com/mayaraviana/ignite-trabalhando-com-middlewares
 ```
 
 - Navegue até o diretório principal do projeto
