@@ -52,13 +52,13 @@ Tudo isso para cada usuário em específico. Além disso, dessa vez tem um plano
 - Clone este repositório
 
 ```
-> git clone https://github.com/prenato84/ignite-template-trabalhando-com-middlewares
+> git clone https://github.com/mayaraviana/ignite-template-trabalhando-com-middlewares
 ```
 
 - Navegue até o diretório principal do projeto
 
 ```
-> cd ignite-template-trabalhando-com-middlewares
+> cd ignite-trabalhando-com-middlewares
 ```
 
 - Instale as dependências com o Yarn
